@@ -58,6 +58,7 @@
     }
     a {
         color: black;
+        text-decoration: none;
     }
     .name .contact li{
         padding:5px 0;
