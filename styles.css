@@ -62,7 +62,6 @@
     }
     .name .contact li{
         padding:5px 0;
-        transform: translate(-40px);
         background-color: #a3edb200;
     }
     .info ul{
